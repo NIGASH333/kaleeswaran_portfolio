@@ -27,14 +27,14 @@ const Hero = () => {
             </Button>
             
             <Button asChild variant="outline" size="lg" className="hover-lift group">
-              <a href="#" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/kaleeswaran3" target="_blank" rel="noopener noreferrer">
                 <Github className="mr-2 h-5 w-5 group-hover:rotate-12 transition-transform" />
                 GitHub
               </a>
             </Button>
             
             <Button asChild variant="outline" size="lg" className="hover-lift group">
-              <a href="#" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/kalees-waran-60574b236" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="mr-2 h-5 w-5 group-hover:scale-110 transition-transform" />
                 LinkedIn
               </a>
