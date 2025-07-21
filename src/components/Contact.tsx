@@ -59,12 +59,12 @@ const Contact = () => {
     {
       icon: <Github className="h-5 w-5" />,
       label: "GitHub",
-      href: "#"
+      href: "https://github.com/kaleeswaran3"
     },
     {
       icon: <Linkedin className="h-5 w-5" />,
       label: "LinkedIn", 
-      href: "#"
+      href: "https://www.linkedin.com/in/kalees-waran-60574b236"
     },
     {
       icon: <Mail className="h-5 w-5" />,
